@@ -9,12 +9,12 @@ import Newsletter from '../components/newsletter'
 const Homepage = () => {
   return (
     <>
-      <Hero />
-      <Featured />
+      <Hero  />
+      <Featured  />
       <Exclusiveoff />
       <Testimonial />
       <Newsletter />
-         </>
+   </>
   )
 }
 
