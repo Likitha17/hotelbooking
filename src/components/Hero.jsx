@@ -3,7 +3,7 @@ import { assets, cities } from '../assets/assets'
 
 const Hero = () => {
   return (
-    <div className="flex flex-col items-start justify-center px-6 md:px-16 lg:px-24 xl:px-32 text-white bg-[url('/assets/heroImage.png')] bg-cover bg-center h-screen">
+    <div className="flex flex-col items-start justify-center px-6 md:px-16 lg:px-24 xl:px-32 text-white bg-[url('/heroImage.png')] bg-cover bg-center h-screen">
 
        <p className='bg-[#49b9ff]/50 px-3.5 py-1 rounded-full mt-20'>Welcome to our hotel</p>
        <h1 className='font-playfair text-2xl md:text-5xl md:text-[56px md:leading[56px] font-bold md:font-extrabold max-w-xl mt-4'>Experience Luxury Like Never Before</h1>
