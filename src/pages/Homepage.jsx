@@ -3,14 +3,14 @@ import Hero from '../components/Hero'
 import Featured from '../components/Featured'
 import Exclusiveoff from '../components/Exclusiveoff'
 import Testimonial from '../components/Testimonial'
-import Newsletter from '../components/newsletter'
+import Newsletter from '../components/Newsletter'
 
 
 const Homepage = () => {
   return (
     <>
-      <Hero  />
-      <Featured  />
+      <Hero />
+      <Featured />
       <Exclusiveoff />
       <Testimonial />
       <Newsletter />
